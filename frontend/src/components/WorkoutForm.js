@@ -56,7 +56,7 @@ const WorkoutForm = () => {
         type="number"
         onChange={(e) => setLoad(e.target.value)}
         value={load}
-        className={emptyFields.includes("loads") ? "error" : ""}
+        className={emptyFields.includes("load") ? "error" : ""}
       />
 
       <label>Number of Reps:</label>
