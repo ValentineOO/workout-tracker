@@ -16,3 +16,4 @@ root.render(
     </AuthContextProvider>
   </React.StrictMode>
 );
+
