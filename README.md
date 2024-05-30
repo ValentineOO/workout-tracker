@@ -1,1 +1,1 @@
-This is a simple mern stack project to demonstrate the understanding of authorization and authentification.
+This is a mern stack project to demonstrate authorization and authentication.
